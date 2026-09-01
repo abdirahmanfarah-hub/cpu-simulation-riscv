@@ -1,0 +1,6 @@
+v2.0 raw
+103F 3000 	# 1. put first value to ACC and address 00
+101C 3001   # 2. put second value to ACC and address 01
+2100		# 3. add ACC value to value from address 00
+3002 	 	# 4. store ACC value at address 02
+f000		# 5. stop
