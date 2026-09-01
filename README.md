@@ -1,5 +1,3 @@
-# cpu-simulation-riscv
-
 # CPU Simulation & RISC-V Assembly
 
 Two halves of a computer architecture project: an 8-bit accumulator-based CPU built and extended in Logisim Evolution, and a set of RISC-V assembly programs written for the RARS simulator.
